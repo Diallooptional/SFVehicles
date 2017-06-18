@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\653ae317e1329001ae9d9214681baa53f8bd371a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc7d0907f7c72ee82dd06dd1450e254d97b6accd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\44b3286505225ba2e02ba6397f1524eea139db07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c76663b34a871d7d541d3e5328e2a1515b590b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\e443bd2cc76e17488665c23c4355fc41407fe06f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13295a5d75f98a53914d0e2a639fdcb82b27de2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\e8758b7cd005c095a4934e4dbeb6c39ba32fd7dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54a8f067ee035d536dacbaac6866aab9dce6fe6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\a551ff1ae6e69b34b2a10e6eea7a6666bea15945\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27a4bc12e538b762410d63e48496740d2857d74d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\f9bbe9beab080be58c29a37944ab3f7d50d150a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7eefc728fd8fa2313bacb460230ff7f88ea72c1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\466789a7157a3b0f7070bbf3d24db9ddcf4282b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb5b4cda241e5a22e1b8802b4c91979d7be0819f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\466789a7157a3b0f7070bbf3d24db9ddcf4282b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb5b4cda241e5a22e1b8802b4c91979d7be0819f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\653ae317e1329001ae9d9214681baa53f8bd371a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc7d0907f7c72ee82dd06dd1450e254d97b6accd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\0a20c1ceaa19edd3d8a1125fda5f50725fa00825\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9ce17a17bd3579f69ea8156034ce5e3424f7cb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_c178dd5c9e9889977cc650be7cdeab1ea439712b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\d525c4b0cce936b0d27b77217077ab86a09232b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1945670f9068583d3ce893cbf89837381f8fbd1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\ee57c326c24049d5ca317dc7ed6e8b5f915d9f7c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a812f8fca1a5cf643e6ae81cf4bfc505d8c76280\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\d3f58399efd3feec5215d168dec1cdf2b3f8cb79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17ee5febc031f9c0383de3ec1822421cfc819b94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\b9f342da6a04a909920d7666ee29bcdf739b0ee3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5a55cdca9ae9209b5098b8b78ccfabe0ce749a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\c2896918dfd81d1d3fd9a21b1370097a93db5878\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92144713993a8b6efb1e7a2ad8c7e687b3752277\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\e4fddf168995b403f545d3770651ccab561720fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0f95aa60ed78226fc2c3e66d803d878ba3a9523\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\cd3ed3f359e68f9014aba10e27fdb34fa3809876\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92d8d605802b7e234c29467994fa65f54beed40d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\2ef599470ec308b9d2cb591481362b01eea45571\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e413683ba124b933f7bae6eabb9acbd7877e03d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\fbc108c9d1692f0e1e286aec6e10334ce01473d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8450c56d47c8339e37969237656683bae1aa3b1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\6f891d34bd5f2cad7dd25b26e36ff37a48963607\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1ad39b18dd6dbe0baeef91345ef74c1ab3b0fd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\764e37ed3dd6864201e9151a6bb13ebd1da5ae92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f1e63d8eda78783d8997b09025ec9927ab87da7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\cc3606b7bca84722e88ab930454d8f79a8374f2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5db9b14cb0cfe42afd1ea73a4f7ca3c500ef4584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\eacae70484d726d05a6108e7c2dd702f6c3968a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b1dbb99ba8725824e4d20437b15c92b0bc0881d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\52aa05232987f34ad489d7d35a93fe2c8fb4f8b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0255d2343d1370f39024fb111568a705b2eb49cd">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4cb3d735bbcef1a7ad9ef1d1003bd850a6a4509f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\cf7554a9384c071d621b74cc8da77256e9a41f73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff9a10338f0218cfd3d94e4b469a53f362d9da76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\43ef8138c48dab117b0e98082779584acdf32474\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5726a00dac677fab130166369c32a386567bbd27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\52aa05232987f34ad489d7d35a93fe2c8fb4f8b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0255d2343d1370f39024fb111568a705b2eb49cd">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4cb3d735bbcef1a7ad9ef1d1003bd850a6a4509f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\a3088d786aeeef4b9cd7b6d0662d0aab3c354a37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07b03fc9b180e7a414697928df554a750125fd58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\6aa5cefd6bfb728866bea2e334040b2cd52e806e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26bd5f8707197a01a74ad6992f386e34d09e5e9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\2ef599470ec308b9d2cb591481362b01eea45571\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26fd62d31c30e2d4d26116e723bb8da332312c14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\943402fb787f5f16f197d9ca70a59cda394cfb23\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f526088eee180ac5d02558daffe58f5e96576866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\53866481fd874c4c8894a719a0ac6312e55ec259\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_471a39f8103a682ed76ccb02ee005985530415b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\f86cbd602d0bfc80f60d127e82df6f289a576097\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d426a380550256ae6f1620fae19b8ff4d59436de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\0c57c8148241dcf11f09d1e1b9decc01519b53ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90f04915b837571865d10123aaf6fd12b447d4fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\53866481fd874c4c8894a719a0ac6312e55ec259\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_471a39f8103a682ed76ccb02ee005985530415b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\a7c183bfa5334470035fbaf9e34baa024d5cfca7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69c8cd9a18588adefdc42a90d42dcae8bdc5d0ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\6aa5cefd6bfb728866bea2e334040b2cd52e806e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26bd5f8707197a01a74ad6992f386e34d09e5e9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\943402fb787f5f16f197d9ca70a59cda394cfb23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b2b34ce42acc00ee408f30463426bf42da11492\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\82e9bcb94c58cfef0924c181b1e5b906ed0ee991\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd2ab6c2477744504c89849dcbe66e663915bb06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\980a7e45cffde9074cd8b8d7e7fb8716e4a250ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c411ce5617add69e975acc88b12e146dba7f3c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\e5efd91cbf79d67d1fa0dc7cbda635c4147d4a0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b607e222d59ee706d22832463a53e90e5ef1f34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\ce6b403009a3b95965eb06833d914c391359740c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04d60eddfeb41a5d7789d71cfcc1419e9d968419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\29f5dc9e5944c85233430123aaa7dea46be58bf5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17de8189b873a6c991c93329da9e913598415063\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\878994f3c81fa702c21b0fba0b04c85aa2334a8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a74d695121c0323255f6af8dd45f6002108f47b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\a7c183bfa5334470035fbaf9e34baa024d5cfca7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69c8cd9a18588adefdc42a90d42dcae8bdc5d0ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\764e37ed3dd6864201e9151a6bb13ebd1da5ae92\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_50b18231ae4151b640289c57f3ba3f50cb27ecf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\231d710983b75f153dc496aced3855400c9b3597\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd3f527a2128f5d687e4c95f503fa80202cc648b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\11a24ec82dc80228566a9b05543bbdea4c32b352\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a99915bb40b96e3dae2ad850b83c67d83086643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\3a34f5d98d62941b0cb288503c3fc8af08f057cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad11fa680ae757efd9769e8b94c134361bf87e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\e18ae6f8c75150abbee716d43f1d537a0fd4e4a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0ced56e407e9f147d9a376768644923a348b09d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\40426b386939a7978d9bcc2bdce1e19b00ca6ac1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c07d403e3fa4524c831778ccfdd115584f328650\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\SFVehicles\SF Vehicles\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72f51802a04a6bb12ca4c2829d1f9528061143e5">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9a9b1966262361aa5bcc6ee4bb4b0bebe04917a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\64cd89d4d83627da945dbe6b936001beb22806b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51fce1c8ec8398cdbc3cef5fdf65e7fcdaea3616\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\54d4f85ada6150091533f06aed4eb522ea67f18c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaf141a6ab3e75bb0902dd04387a4576c4164208\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\eacae70484d726d05a6108e7c2dd702f6c3968a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b1dbb99ba8725824e4d20437b15c92b0bc0881d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\d3f58399efd3feec5215d168dec1cdf2b3f8cb79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17ee5febc031f9c0383de3ec1822421cfc819b94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\34bba95ee9a75e1b9b49799d0a684e1a1ba0ff4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a991f94457311db9ed9b37e6e1cdd57600956e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\SFVehicles\SF Vehicles\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_02109b2c7c486594e4fa83216eb37dc568a75e41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\5d5e83ceb27b9f72d775526e57ac27d672e61e7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0390b9dcd5c6ad1a230ebb5134f879b718d2b4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\d8729c51364b4d8c2207c352a69135fcb169cf5c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23e7321e677ccf97ecfa19e54ea5ac9ec66f8190\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\5e02331153c1482d924809cb41a4cec247b8ef04\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60a69683e6e348240d5c1d5dfabd811487610047\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\0017fc93946f6fdb62de2413e7cfe669f7a46ea7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f697f1052a4185591f6f79cd61aa9cbdf87586e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\2df4e3e1a0b3f68ea71efedcdf60657d9728c7c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8092ecad45fd81fc57f94299dd73d41a0f735a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\e443bd2cc76e17488665c23c4355fc41407fe06f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13295a5d75f98a53914d0e2a639fdcb82b27de2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\64cd89d4d83627da945dbe6b936001beb22806b8\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c605771691f7e286ea6cf5472a80aa141e6be0b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\SFVehicles\SF Vehicles\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bfc6cdecd55b7b46077a29dce7da3334c9e80df5">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9a9b1966262361aa5bcc6ee4bb4b0bebe04917a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\dae22c478c5cc86a33bda893f00c81930fef65ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab819dc1767ed55d4723d390ecb61b4bd353fa36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\e4fddf168995b403f545d3770651ccab561720fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0f95aa60ed78226fc2c3e66d803d878ba3a9523\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\a0bc1bb2585dc135d24f7f8a6af46de7eeff4da6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32960dc251de262dad031e8665ac65fe3909c8ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\0c57c8148241dcf11f09d1e1b9decc01519b53ff\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d4fba3940ee9d4b690a3ceefec0a0ca669c51d97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\SFVehicles\SF Vehicles\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_02109b2c7c486594e4fa83216eb37dc568a75e41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\10944299c0ca8d47ddf5e96f202572a09c28bdcf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff1efb72cc3867a406d07eff6281028208e590b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\98f3746e54d2c7ba293bc9480b93863520f18c37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a540f297e52335dd909de7903f3db56f36f6fa45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\a3088d786aeeef4b9cd7b6d0662d0aab3c354a37\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b7672d41061f59a279df3a042f020c33db11eb76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sagarsrao\.android\build-cache\980a7e45cffde9074cd8b8d7e7fb8716e4a250ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="F:\SFVehicles\SF Vehicles\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c411ce5617add69e975acc88b12e146dba7f3c0\classes.dex" />
+    </item>
+
+</items>

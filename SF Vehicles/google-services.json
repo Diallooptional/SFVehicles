@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "268350659762",
+    "firebase_url": "https://sfvehicles-4ae22.firebaseio.com",
+    "project_id": "sfvehicles-4ae22",
+    "storage_bucket": "sfvehicles-4ae22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268350659762:android:bc0a0196a909502e",
+        "android_client_info": {
+          "package_name": "com.firebase.sfvehicles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268350659762-0omppo05mjg82qtoeefhk77l4miauav9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sVa3GCJTbfIriqYYWUPEqAT27q-pG_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
